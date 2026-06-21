@@ -9,12 +9,12 @@ const services = [
   {
     no: "02",
     title: "Delivery assurance & rescue",
-    body: "An honest, fast read on a programme that's drifting. We diagnose what's really going wrong, stabilise it, and put a credible recovery plan in motion — then see it through.",
+    body: "An honest, fast read on a programme that's drifting. We diagnose what's really going on, supercharge the critical path, follow it through to launch and monitor first contact to make sure it delivers tangible results in the real world.",
   },
   {
     no: "03",
     title: "Sourcing & vendor management",
-    body: "Holding suppliers to account against outcomes. We manage the contracts, the integration and the difficult conversations so your delivery isn't hostage to a third party.",
+    body: "Holding suppliers to account against outcomes. We manage the contracts, the integration and the difficult conversations so you don't have to.",
   },
 ];
 
@@ -28,11 +28,6 @@ export default function Services() {
           </Reveal>
           <Reveal as="h2" className="section-head__title" delay={60}>
             A consultancy that does the hard part: the delivery.
-          </Reveal>
-          <Reveal as="p" className="section-head__lede" delay={120}>
-            Strategy decks are easy. Getting a complex programme over the line,
-            with the politics, the legacy systems and the immovable deadline, is
-            the part most people avoid. It&rsquo;s the only part we do.
           </Reveal>
         </div>
 
