@@ -27,7 +27,7 @@ export default function Services() {
             What we do
           </Reveal>
           <Reveal as="h2" className="section-head__title" delay={60}>
-            A consultancy that does the hard part: the delivery.
+            A consultancy that does the hard part.
           </Reveal>
         </div>
 
