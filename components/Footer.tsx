@@ -15,7 +15,6 @@ export default function Footer() {
 
         <nav className="site-footer__nav" aria-label="Footer">
           <a href="#services">What we do</a>
-          <a href="#approach">Approach</a>
           <a href="#about">The company</a>
         </nav>
 

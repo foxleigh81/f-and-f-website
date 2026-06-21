@@ -23,8 +23,12 @@ export default function About() {
           <Reveal as="h2" className="about__title" delay={60}>
             Trusted on the projects that matter.
           </Reveal>
+          <Reveal as="p" delay={120}>
+            No pyramid of junior consultants learning on your budget. The people
+            who scope the work are the people who do it.
+          </Reveal>
 
-          <Reveal as="ul" className="about__points" delay={120}>
+          <Reveal as="ul" className="about__points" delay={160}>
             <li>Independent &amp; privately owned</li>
             <li>Senior practitioners only</li>
             <li>Sector-agnostic delivery expertise</li>
