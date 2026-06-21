@@ -13,7 +13,7 @@ const services = [
   },
   {
     no: "03",
-    title: "Sourcing & vendor delivery",
+    title: "Sourcing & vendor management",
     body: "Holding suppliers to account against outcomes. We manage the contracts, the integration and the difficult conversations so your delivery isn't hostage to a third party.",
   },
 ];

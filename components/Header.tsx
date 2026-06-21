@@ -7,7 +7,7 @@ import logo from "@/public/foxleigh-and-co-logo-large.png";
 const links = [
   { href: "#services", label: "What we do" },
   { href: "#approach", label: "Approach" },
-  { href: "#about", label: "The firm" },
+  { href: "#about", label: "The company" },
 ];
 
 export default function Header() {

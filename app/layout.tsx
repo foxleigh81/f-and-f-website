@@ -22,19 +22,19 @@ export const metadata: Metadata = {
     template: "%s · Foxleigh & Foxleigh",
   },
   description:
-    "A Surrey-based consultancy specialising in IT project delivery. We lead, rescue and assure complex technology programmes — and we finish what we start.",
+    "A consultancy specialising in IT project delivery. We lead, rescue and assure complex technology programmes — and we finish what we start.",
   keywords: [
     "IT project delivery",
-    "Surrey consultancy",
+    "IT delivery consultancy",
     "programme management",
     "delivery assurance",
     "project rescue",
-    "vendor delivery",
+    "vendor management",
   ],
   openGraph: {
     title: "Foxleigh & Foxleigh — IT Project Delivery Consultancy",
     description:
-      "Surrey-based consultancy specialising in IT project delivery. Clear-eyed delivery leadership for complex technology programmes.",
+      "Consultancy specialising in IT project delivery. Clear-eyed delivery leadership for complex technology programmes.",
     type: "website",
     locale: "en_GB",
   },

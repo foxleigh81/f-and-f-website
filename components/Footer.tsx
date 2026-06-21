@@ -16,12 +16,12 @@ export default function Footer() {
         <nav className="site-footer__nav" aria-label="Footer">
           <a href="#services">What we do</a>
           <a href="#approach">Approach</a>
-          <a href="#about">The firm</a>
+          <a href="#about">The company</a>
         </nav>
 
         <p className="site-footer__legal">
           &copy; {year} Foxleigh &amp; Foxleigh Ltd. Registered in England &amp;
-          Wales. Surrey, UK.
+          Wales.
         </p>
       </div>
     </footer>

@@ -18,30 +18,17 @@ export default function About() {
 
         <div className="about__copy">
           <Reveal as="p" className="eyebrow">
-            The firm
+            The company
           </Reveal>
           <Reveal as="h2" className="about__title" delay={60}>
-            Based in Surrey. Trusted on the projects that matter.
-          </Reveal>
-          <Reveal as="p" delay={120}>
-            Foxleigh &amp; Foxleigh was founded on a frustration shared across
-            the industry: too many technology programmes are sold brilliantly
-            and delivered badly. We exist to close that gap.
-          </Reveal>
-          <Reveal as="p" delay={160}>
-            From our base in Surrey we work with organisations across the
-            South&nbsp;East and beyond &mdash; financial services, public
-            sector, healthcare and fast-scaling businesses &mdash; wherever a
-            critical IT programme needs a steady, senior hand. We keep the firm
-            deliberately small so that the people you meet are the people who do
-            the work.
+            Trusted on the projects that matter.
           </Reveal>
 
-          <Reveal as="ul" className="about__points" delay={200}>
+          <Reveal as="ul" className="about__points" delay={120}>
             <li>Independent &amp; privately owned</li>
             <li>Senior practitioners only</li>
             <li>Sector-agnostic delivery expertise</li>
-            <li>Discreet, references on request</li>
+            <li>Cyber Essentials Accredited</li>
           </Reveal>
         </div>
       </div>

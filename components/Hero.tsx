@@ -2,31 +2,30 @@ const MARQUEE_ITEMS = [
   "Programme delivery",
   "Delivery assurance",
   "Project rescue",
-  "Vendor delivery",
+  "Vendor management",
 ];
 
 export default function Hero() {
   return (
     <section className="hero" id="top">
-      <div className="hero__amp" aria-hidden="true">
-        &amp;
-      </div>
       <div className="hero__grid" aria-hidden="true" />
 
       <div className="shell hero__inner">
-        <p className="eyebrow hero__eyebrow">Surrey · IT Project Delivery</p>
+        <p className="eyebrow hero__eyebrow">IT Project Delivery</p>
 
         <h1 className="hero__title">
-          We deliver the projects
+          Delivering <em>cutting-edge</em> digital technology
           <br />
-          others <em>can&rsquo;t</em> &mdash; or won&rsquo;t.
+          across the public and private sector.
         </h1>
 
         <p className="hero__lede">
-          Foxleigh &amp; Foxleigh is a consultancy built around a single,
-          unglamorous promise: complex technology programmes that actually land.
-          We lead, rescue and assure delivery for organisations who need it done
-          properly.
+          Foxleigh &amp; Foxleigh is a consultancy built around the seamless
+          delivery of digital innovations.
+        </p>
+        <p className="hero__lede">
+          Offering a full portfolio management service; coordinating programmes,
+          products, stakeholder relationships and governance.
         </p>
 
         <div className="hero__actions">
